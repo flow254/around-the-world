@@ -1,5 +1,6 @@
 # around-the-world
 Java Applet that simulates one-player quiz game
+
 i) Around.java
 Contains the implementation of the question and choice display, checking answer correctness and calculating scores. 
 Other features:
