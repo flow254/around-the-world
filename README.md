@@ -1,14 +1,18 @@
-# around-the-world
-Java Applet that simulates one-player quiz game
+# Around The World
+Around The World is a single-player quiz game that runs as a Java Applet. 
 
-i) Around.java
+## Main Files and Features:
+
+### i) Around.java
 Contains the implementation of the question and choice display, checking answer correctness and calculating scores. 
-Other features:
+
+### ii) AroundCanvas.java
+Java file contains the graphics function that paints within the Applet to show the quiz-like game display. It contains a panel for the question, picture and choice buttons. The implementation on a Java Applet was to give the game a retro feel. 
+
+### Other features:
 . Image display along with questions
 . Timer countdown
 . Game termination notification and score display
-ii) AroundCanvas.java
-Java file contains the graphics function that paints within the Applet to show the quiz-like game display. It contains a panel for the question, picture and choice buttons. The implementation on a Java Applet was to give the game a retro feel. 
 
 Images uploaded along with the files are the accompany the questions. 
 
